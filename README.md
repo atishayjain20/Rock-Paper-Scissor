@@ -20,8 +20,8 @@ Change your Ip Address inside the network.py and server.py module
 
 
 # Screenshots : 
-<img src="Screenshots/home.png" height="400" width="800">
-<img src="Screenshots/home2.png" height="400" width="800">
-<img src="Screenshots/Post.png" height="400" width="800">
-<img src="Screenshots/Profile.png" height="400" width="800">
-<img src="Screenshots/UserPost.png" height="400" width="800">
+<img src="Screenshots/Screenshot1.png" height="400" width="800">
+<img src="Screenshots/Screenshot2.png" height="400" width="800">
+<img src="Screenshots/Screenshot3.png" height="400" width="800">
+<img src="Screenshots/Screenshot4.png" height="400" width="800">
+
